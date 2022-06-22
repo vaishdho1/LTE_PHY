@@ -1,3 +1,3 @@
-lte_dl:
-	g++ -c -o lte_dl.o lte_dl.cpp
-	g++ -o lte lte_dl.o -lfftw3
+lte_channels:
+	g++ -c -o lte_channels.o lte_channels.cpp
+	g++ -o lte_channels lte_channels.o -lfftw3
