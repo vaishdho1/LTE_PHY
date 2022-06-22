@@ -16,9 +16,9 @@
 
 #### The file lte_channels.cpp was run using g++ compiler
 
-#### Before running install fftw3 library: sudo apt-get install libfftw3-dev
+#### Before running install fftw3 library: *sudo apt-get install libfftw3-dev*
 
-#### Run make lte_channels
+#### Run : *make lte_channels*
 
 #### There is an int main() inside lte_channels.cpp which is preconfigured with values.
 #### This can be changed depending on the bandwidth,Number of antennas,PHICH_Ng_value and cell_id.
