@@ -1,4 +1,4 @@
-## LTE_PHY
+## 4G-LTE-Downlink-Channels
 
 ### The project has implementations of the various downlink channels for 4G LTE in C++.
 #### The following channels are implemented:
